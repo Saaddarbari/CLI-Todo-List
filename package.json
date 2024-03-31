@@ -1,7 +1,7 @@
 {
   "name": "sd13-todo-list",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.3",
+  "description": "This is a Cli based todo list",
   "main": "index.js",
   "type": "module",
   "bin": "main.js",
